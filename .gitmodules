@@ -1,3 +1,6 @@
 [submodule "udatube-server"]
 	path = udatube
 	url = https://github.com/HuaAnhMinh/udatube-server
+[submodule "udatube-client"]
+	path = udatube-client
+	url = https://github.com/HuaAnhMinh/udatube-client
