@@ -52,9 +52,11 @@ Project structure:
 * **errors**: contain single file Errors.ts to list every possible errors to catch alongside with status code when calling api
 * **functions**: each function is separated in corresponding folder, including index.ts file to declare function handler, role name, function name, event handler; handler.ts contains the code for function
 * **businessLayer**: business layer, divided into 3 main features: user, comment and video. This layer recieves raw information from function handler to check for valid data input, existed resource, valid access to resource and other logic.
-* **dataLayer**: data layer, like business layer, divided into 3 main features: user, comment and video. This layer recieves data from business layer and save to AWS resource like DynamoDB, S3. Details information can be found in file README.md in udatube folder.
+* **dataLayer**: data layer, like business layer, divided into 3 main features: user, comment and video. This layer recieves data from business layer and save to AWS resource like DynamoDB, S3.
 
 Each step when calling the api will be logged using AWS CloudWatch Logs and traced by AWS X-Ray.
+
+**Details information can be found in file README.md in udatube folder.**
 
 Setup: run yarn install. After that, run serverless deploy to deploy.
 
