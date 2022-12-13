@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name=".serverless">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/custom-resources.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/CreateVideo.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/UnlikeVideo.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/Authorizer.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/ResizeThumbnail.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/SearchUser.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/ResizeAvatar.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/SubscribeChannel.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/GetSubscribedChannels.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/UploadThumbnail.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/Register.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/DeleteComment.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/UpdateVideo.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/GetVideo.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/CreateComment.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/UndislikeVideo.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/GetComments.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/UnsubscribeChannel.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/ChangeAvatar.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/GetVideos.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/DislikeVideo.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/UploadVideo.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/ViewProfile.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/DeleteVideo.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/SyncVideoUpdatedTime.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/UpdateComment.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/hello.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/ChangeUsername.zip!/" />
+      <root url="jar://$PROJECT_DIR$/udatube/.serverless/LikeVideo.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
